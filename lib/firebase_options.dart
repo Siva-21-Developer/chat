@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBbwWXSQsK2SGLEahB-OIUEok525mBIUuQ',
-    appId: '1:46497110885:web:9abff28df18c6c9d499f8c',
+    apiKey: 'api key',
+    appId: '1:46497110885:web:9abff28dc6c9d499f8c',
     messagingSenderId: '46497110885',
-    projectId: 'chart-app-87b2f',
-    authDomain: 'chart-app-87b2f.firebaseapp.com',
-    storageBucket: 'chart-app-87b2f.appspot.com',
-    measurementId: 'G-HS09TZVE3Q',
+    projectId: 'chart-app-22b2f',
+    authDomain: 'chart-app-22b2f.firebaseapp.com',
+    storageBucket: 'charapp-87b2f.appspot.com',
+    measurementId: 'G-HS09ZVE3Q',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB2SXhNUIQtWkiSmKS-VYGFMzYSDfhX0RM',
-    appId: '1:46497110885:android:470efbf508804f02499f8c',
-    messagingSenderId: '46497110885',
-    projectId: 'chart-app-87b2f',
+    apiKey: 'api key',
+    appId: '1:46497110885:android:470e508804f02499f8c',
+    messagingSenderId: '499497110885',
+    projectId: 'chart-app-b2f',
     storageBucket: 'chart-app-87b2f.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCa1PVxgDDDwfotqsv84BpYnN4_LDoOEk4',
-    appId: '1:46497110885:ios:6c3e3b4636c6c361499f8c',
-    messagingSenderId: '46497110885',
-    projectId: 'chart-app-87b2f',
-    storageBucket: 'chart-app-87b2f.appspot.com',
+    apiKey: 'api key',
+    appId: '1:46497110885:ios:6c3e336c6c361499f8c',
+    messagingSenderId: '647110885',
+    projectId: 'chart-app-872f',
+    storageBucket: 'chart-app87b2f.appspot.com',
     iosBundleId: 'com.example.chat',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCa1PVxgDDDwfotqsv84BpYnN4_LDoOEk4',
-    appId: '1:46497110885:ios:3178b79df2fbf408499f8c',
-    messagingSenderId: '46497110885',
-    projectId: 'chart-app-87b2f',
+    apiKey: 'api key',
+    appId: '1:46497110885:ios:317df2fbf408499f8c',
+    messagingSenderId: '497110885',
+    projectId: 'chart-app-872f',
     storageBucket: 'chart-app-87b2f.appspot.com',
     iosBundleId: 'com.example.chat.RunnerTests',
   );
