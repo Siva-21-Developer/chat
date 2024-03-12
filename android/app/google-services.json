@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46497110885",
+    "project_id": "chart-app-87b2f",
+    "storage_bucket": "chart-app-87b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46497110885:android:0420b7501707ddc1499f8c",
+        "android_client_info": {
+          "package_name": "com.example.chart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SXhNUIQtWkiSmKS-VYGFMzYSDfhX0RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46497110885:android:470efbf508804f02499f8c",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SXhNUIQtWkiSmKS-VYGFMzYSDfhX0RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
